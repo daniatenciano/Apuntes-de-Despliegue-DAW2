@@ -60,12 +60,12 @@
 
 ### FQDN
 
-![Árbol DNS](assets/dns-tree.png)
+![Árbol DNS](img/dns-tree.png)
 
 
 ### Niveles
 
-![Niveles DNS](assets/dns-niveles.png)
+![Niveles DNS](img/dns-niveles.png)
 
 
 ### Dominios de nivel superior
