@@ -56,7 +56,7 @@
 
 **Servidor web y Contenedor de servlets**
 
-![Tomcat](assets/tomcat.png)
+![Tomcat](img/tomcat.png)
 
 
 ### Instalación
@@ -148,7 +148,7 @@ Insertamos las siguientes líneas en **/etc/tomcat8/tomcat-users.xml**.
 
 **Servidor de aplicaciones**
 
-![WildFly](assets/wildfly.png)
+![WildFly](img/wildfly.png)
 
 
 ### Características
@@ -171,7 +171,7 @@ Insertamos las siguientes líneas en **/etc/tomcat8/tomcat-users.xml**.
 
 ### docker
 
-![Docker](assets/docker.png)
+![Docker](img/docker.png)
 
 
 ### Características de docker
@@ -252,7 +252,7 @@ docker  exec  -it  9a60b60be82d  bash
 
 ### docker-compose
 
-![Docker compose](assets/docker-compose.png)
+![Docker compose](img/docker-compose.png)
 
 
 ### Características de docker-compose
