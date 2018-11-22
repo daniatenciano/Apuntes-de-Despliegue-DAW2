@@ -281,4 +281,4 @@ service  apache2  restart
 
 ### Resultado
 
-![https](assets/https.png)
+![https](img/https.png)
