@@ -1,4 +1,6 @@
 
+
+
 ## Servidores web
 
 [![cc-by-sa](http://jamj2000.github.io/despliegueaplicacionesweb/cc-by-sa.png)](http://creativecommons.org/licenses/by-sa/4.0/)
@@ -243,7 +245,7 @@ Note: CSR = Certificate Signing Request (solicitud de firma de certificado).
 
 ### xca
 
-![xca](img/imagen 1.png)
+![xca](img/xca.png)
 
 
 ### Archivo de configuración
@@ -281,4 +283,4 @@ service  apache2  restart
 
 ### Resultado
 
-![https](img/imagen 2.png)
+![https](img/https.png)
