@@ -78,11 +78,11 @@
 
 **Activo**
 
-![FTP activo](assets/ftp-activo.png)
+![FTP activo](img/ftp-activo.png)
 
 **Pasivo**
 
-![FTP pasivo](assets/ftp-pasivo.png)
+![FTP pasivo](img/ftp-pasivo.png)
 
 
 ### Seguridad
