@@ -307,10 +307,10 @@ video/H264            | Video con codificación H.264
 ### La nube
 #### Proveedores ###
 
-![Amazon - GCP - Azure](assets/cloud-amazon.png)
+![Amazon - GCP - Azure](img/cloud-amazon.png)
 
 
 ### La nube
 #### Proveedores ###
 
-![Heroku - Openshift - DigitalOcean](assets/cloud-heroku.png)
+![Heroku - Openshift - DigitalOcean](img/cloud-heroku.png)
