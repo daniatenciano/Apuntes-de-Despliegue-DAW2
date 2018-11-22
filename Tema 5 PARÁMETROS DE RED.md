@@ -341,4 +341,4 @@ named-checkzone  example.com  /var/lib/bind/db.example.com
 named-checkzone  16.172.in-addr.arpa  /var/lib/bind/db.172.16
 ```
 
-![named checkconf checkzone](assets/named-checkconf-checkzone.png)
+![named checkconf checkzone](img/named-checkconf-checkzone.png)
