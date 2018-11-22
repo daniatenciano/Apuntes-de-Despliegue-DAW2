@@ -243,7 +243,7 @@ Note: CSR = Certificate Signing Request (solicitud de firma de certificado).
 
 ### xca
 
-![xca](img/imagen1.png)
+![xca](img/imagen 1.png)
 
 
 ### Archivo de configuración
@@ -281,4 +281,4 @@ service  apache2  restart
 
 ### Resultado
 
-![https](img/imagen2.png)
+![https](img/imagen 2.png)
