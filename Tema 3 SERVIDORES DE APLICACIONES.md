@@ -166,7 +166,7 @@ Insertamos las siguientes líneas en **/etc/tomcat8/tomcat-users.xml**.
 
 ### VMs / Containers
 
-![VMs vs Containers](assets/vm-container.jpg)
+![VMs vs Containers](img/vm-container.jpg)
 
 
 ### docker
